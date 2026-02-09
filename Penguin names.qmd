@@ -5,7 +5,7 @@ editor: visual
 ---
 
 ```{r}
-Penguin_names = list("Kåre Roger", "Johnny Ronny", "Brage", "Henrik Åge", "Skaslien")
+Penguin_names = list("Kåre Roger", "Johnny Ronny", "Brage", "Henrik Åge", "Skaslien", "Tobias Roger", "Skakkebakke")
 
 Penguin_names
 

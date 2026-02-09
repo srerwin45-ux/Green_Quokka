@@ -8,4 +8,6 @@ editor: visual
 Penguin_names = list("Kåre Roger", "Johnny Ronny", "Brage", "Henrik Åge", "Skaslien")
 
 Penguin_names
+
+House_md_characters = list("Abode", "Twelve", "Will's son", "Vex", "Stalk")
 ```
